@@ -28,7 +28,7 @@ lastly `register` the service provider in your `config/app.php` in the providers
 
 now any file in your `Helpers` directory is loaded, and ready for use.
 
-```
+
 - __Helper (GlobalHelper.php)__
 
 `Helper` completely justifies its name. Any additional operation other than `CRUD` operation can be written in `helper`. Just create a directory as __`App\Helpers\Helper.php`__ and write your code inside it. For example as the code given below,
